@@ -2,8 +2,8 @@
 
 Controll your chromecast with the python module <code>pychromecast</code>. 
 
-1. Play YouTube videos
-2. Play local videos
+ - Play YouTube videos
+ - Play local videos
 
 ## Table of contents
 
