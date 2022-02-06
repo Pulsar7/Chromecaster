@@ -34,4 +34,4 @@ Controll your chromecast with the python module <code>pychromecast</code>.
 
 ## Suggestions & Reports
 
-Suggestions or errors are welcome to be [reported](https://github.com/Pulsar7/Math-Functions-Cryptography/issues)! 
+Suggestions or errors are welcome to be [reported](https://github.com/Pulsar7/Chromecaster/issues)! 
