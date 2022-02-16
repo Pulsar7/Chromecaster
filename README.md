@@ -16,7 +16,7 @@ Controll your chromecast with the python module <code>pychromecast</code>.
 
 ## Author
 
-> Twitter: https://twitter.com/SevenPulsar \
+> Twitter: https://twitter.com/SevenPulsar  \
 > StackOverflow: https://stackoverflow.com/users/13998100/pulsar 
 
 ## Requirements
