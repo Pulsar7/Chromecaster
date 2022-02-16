@@ -5,6 +5,9 @@ Controll your chromecast with the python module <code>pychromecast</code>.
  - Play YouTube videos
  - Play local videos
 
+
+**Helpful:** Sometimes the <code>pychromecast</code> could'nt find any chromecast in your area, but I will try to fix this. (Suggestions are welcome!)
+
 ## Table of contents
 
 * [Requirements](#requirements)
