@@ -6,7 +6,7 @@ Controll your chromecast with the python module <code>pychromecast</code>.
  - Play local videos
 
 
-**Helpful:** Sometimes the <code>pychromecast</code> could'nt find any chromecast in your area, but I will try to fix this. (Suggestions are welcome!)
+**Helpful:** Sometimes the <code>pychromecast</code> (it also depends sometimes on the OS) could'nt find any chromecast in your area, but I will try to fix this. (Suggestions are welcome!)
 
 ## Table of contents
 
